@@ -1,6 +1,6 @@
 # BasicsLogin
 ### Description
-Layout básico de login feito com HTML5/CSS3.
+Layout de login feito com HTML5/CSS3.
 
 <p align="left">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
